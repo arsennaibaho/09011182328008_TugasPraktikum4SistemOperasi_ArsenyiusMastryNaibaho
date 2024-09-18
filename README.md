@@ -12,4 +12,4 @@
 ![Screenshot from 2024-09-12 09-44-49](https://github.com/user-attachments/assets/7fef8481-c53f-47b5-96a6-0c3626ec2ed2)
 ![Screenshot from 2024-09-12 09-45-29](https://github.com/user-attachments/assets/95371d97-3639-4a00-8b21-2d3f17b641d1)
 
-### 4. 
+### 4. Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.
